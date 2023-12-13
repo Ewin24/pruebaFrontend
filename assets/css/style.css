@@ -288,7 +288,7 @@ section a {
 
 /* Mobile Menu */
 .mobile-menu {
-  position: absolute;
+  position: fixed;
   right: 0;
   background-color: #b2f2bb;
   color: #000;
@@ -386,7 +386,6 @@ section a {
     max-width: 90%;
   }
 }
-
 
 /* footer */
 .footer {
