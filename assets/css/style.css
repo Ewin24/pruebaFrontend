@@ -476,3 +476,7 @@ section a {
   width: auto;
   height: auto;
 }
+
+.main-text {
+  text-align: center;
+}
